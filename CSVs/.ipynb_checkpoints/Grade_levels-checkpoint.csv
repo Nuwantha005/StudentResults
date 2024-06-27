@@ -1,0 +1,16 @@
+Benchmark Percentage,Grade,Grade Point,Description
+85 and above *,A+,4.00,
+75 to 84 *,A,4.00,Excellent
+70 to 74 *,A-,3.70,
+65 to 69 *,B+,3.30,
+60 to 64 *,B,3.00,Good
+55 to 59 *,B-,2.70,
+50 to 54 *,C+,2.30,
+45 to 49 *,C,2.00,Pass
+40 to 44 *,C-,1.70,Weak Pass
+35 to 39 *,D,1.00,Conditional Pass
+"Both WE or CAcomponents 34 and below",F,0.0,Fail
+"Only WE component34 and below",I-we,0.0,"Incomplete - WrittenExamination"
+"Only CA component34 and below",I-ca,0.0,"Incomplete - ContinuousAssessments"
+,N,---,Academic Concession
+,W,---,Withdrawn
